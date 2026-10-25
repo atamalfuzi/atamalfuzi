@@ -14,7 +14,7 @@ Data scientist and economist in Vancouver, BC. I build data pipelines, econometr
 ## Publications
 
 - [Analyzing the consequences of postponing electricity subsidy reforms in Iran: A retrospective study](https://doi.org/10.1016/j.esr.2025.101889), *Energy Strategy Reviews*, 2025
-- [Economic viability of bitcoin mining using a renewable-based SOFC power system to supply the electrical power demand](https://doi.org/10.1016/j.energy.2020.117816), *Energy*, 2020
+- [Economic viability of bitcoin mining using a renewable-based SOFC power system to supply the electrical power demand](https://doi.org/10.1016/j.energy.2020.117843), *Energy*, 2020
 
 ## Find me
 
