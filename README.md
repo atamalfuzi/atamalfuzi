@@ -10,6 +10,7 @@ Data scientist and economist in Vancouver, BC. I build data pipelines, econometr
 
 - [bc_pop_change_map](https://github.com/atamalfuzi/bc_pop_change_map): maps of population change across British Columbia's census subdivisions (R, sf, ggplot2)
 - [bc_housing_affordability](https://github.com/atamalfuzi/bc_housing_affordability): rent and mortgage costs as a share of family income across BC's cities, from open data (R, ggplot2)
+- [bc_electricity_load](https://github.com/atamalfuzi/bc_electricity_load): how much of BC's electricity load growth is weather, and a backtest of next-day peak forecasts (Python, pandas, scikit-learn)
 
 ## Publications
 
