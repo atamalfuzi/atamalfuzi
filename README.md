@@ -11,9 +11,9 @@ Data scientist and economist in Vancouver, BC. I build data pipelines, econometr
 Personal projects built from publicly available data. They are not associated with my work for any current or past employer and do not represent their views.
 
 - [bc_electricity_balance](https://github.com/atamalfuzi/bc_electricity_balance): how rare BC's 2023 drought was, what it cost in hydro output and trade, how trade with the US moves hour by hour, and how well demand and trade can be forecast, from open data with [interactive charts](https://atamalfuzi.github.io/bc-electricity-balance.html) and a [monthly dashboard](https://atamalfuzi.github.io/bc_electricity_balance/) (Python, statsmodels, scikit-learn)
-- [canada_gas_demand](https://github.com/atamalfuzi/canada_gas_demand): how households in BC, Ontario and Alberta respond to natural gas prices since 1981, in the short and long run, with a Kalman-filter time-varying elasticity and two estimation traps (Python, statsmodels)
-- [bc_pop_change_map](https://github.com/atamalfuzi/bc_pop_change_map): maps of population change across British Columbia's census subdivisions (R, sf, ggplot2)
-- [bc_housing_affordability](https://github.com/atamalfuzi/bc_housing_affordability): rent and mortgage costs as a share of family income across BC's cities, from open data (R, ggplot2)
+- [canada_gas_demand](https://github.com/atamalfuzi/canada_gas_demand): how households respond to natural gas prices since 1981, whether BC differs from other provinces, where the fall in use came from, and how well demand can be forecast, from open data with [interactive charts](https://atamalfuzi.github.io/canada-gas-demand.html) and a [monthly dashboard](https://atamalfuzi.github.io/canada_gas_demand/) (Python, statsmodels, scikit-learn)
+- [bc_pop_change_map](https://github.com/atamalfuzi/bc_pop_change_map): [maps](https://atamalfuzi.github.io/bc-population-change.html) of population change across British Columbia's census subdivisions (R, sf, ggplot2)
+- [bc_housing_affordability](https://github.com/atamalfuzi/bc_housing_affordability): [rent and mortgage costs](https://atamalfuzi.github.io/rent-and-mortgage-burden.html) as a share of family income across BC's cities, from open data (R, ggplot2)
 
 ## Publications
 
