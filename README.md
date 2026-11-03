@@ -3,7 +3,7 @@
 Data scientist and economist in Vancouver, BC. I build data pipelines, econometric models and energy-economic systems that turn complex datasets into decisions for government, research and policy.
 
 - **Energy-economic modelling:** transportation electrification, carbon markets, policy scenario analysis
-- **Applied econometrics:** time series, state-space models, panel data, index construction
+- **Applied econometrics:** time series, state-space models, panel data, event studies, difference-in-differences
 - **Stack:** R, Python, SQL, Julia, Azure, Git
 
 ## Work samples
